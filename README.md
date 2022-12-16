@@ -1,4 +1,4 @@
-- 👋 Hi, friend! Welcome to my GitHub! My name is Ramis & I'm Junior Computer Science student at the University of the Pacific in Stockton, CA.
+- 👋 Hi, friend! Welcome to my GitHub! I'm Junior Computer Science student at the University of the Pacific in Stockton, CA.
 - 🎮 My concentration is Graphic Design & Gaming. Currently, I'm expanding my knowledge in different programming languages.
 - 🌎 Feel free to check out projects I completed so far in "projects" repo! I love to collaborate and help the World!
 - 🤝 I'm always open for new challenges! You can reach me via DM & Email: r_hasanli@u.pacific.edu
